@@ -1,12 +1,11 @@
 {
   "name": "language-actionscript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax highlighting and snippets for ActionScript files.",
   "repository": "https://github.com/jonrohan/language-actionscript",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
